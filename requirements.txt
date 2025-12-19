@@ -1,2 +1,4 @@
 pandas 
+polars 
 streamlit
+pyarrow
