@@ -24,6 +24,6 @@ pip install streamlit pandas pyarrow
 
 REM ---- 5. Run Streamlit app ----
 echo ▶️ Starting Streamlit app...
-streamlit run app.py
+streamlit run polapp.py
 
 pause
